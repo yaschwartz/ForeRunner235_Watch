@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="8" pc="268435456" symbol="initialize"/>
-<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="9" pc="268435460" symbol="initialize"/>
-<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="13" pc="268435479" symbol="onLayout"/>
-<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="14" pc="268435483" symbol="onLayout"/>
-<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="20" pc="268435521" symbol="onShow"/>
-<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="24" pc="268435526" symbol="onUpdate"/>
-<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="26" pc="268435530" symbol="onUpdate"/>
-<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="27" pc="268435547" symbol="onUpdate"/>
-<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="28" pc="268435621" symbol="onUpdate"/>
-<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="29" pc="268435645" symbol="onUpdate"/>
-<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="32" pc="268435659" symbol="onUpdate"/>
-<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="38" pc="268435680" symbol="onHide"/>
-<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="42" pc="268435685" symbol="onExitSleep"/>
-<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="46" pc="268435690" symbol="onEnterSleep"/>
-<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2App.mc" lineNum="5" pc="268435695" symbol="initialize"/>
-<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2App.mc" lineNum="6" pc="268435699" symbol="initialize"/>
-<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2App.mc" lineNum="10" pc="268435718" symbol="onStart"/>
-<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2App.mc" lineNum="14" pc="268435723" symbol="onStop"/>
-<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2App.mc" lineNum="18" pc="268435728" symbol="getInitialView"/>
-<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2App.mc" lineNum="19" pc="268435732" symbol="getInitialView"/>
-<entry filename="Rez" lineNum="18" pc="268435770" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="20" pc="268435774" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="21" pc="268435937" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="22" pc="268435962" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="23" pc="268436014" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="26" pc="268436060" symbol="WatchFace"/>
+<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="9" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="10" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="14" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="15" pc="268435483" symbol="onLayout"/>
+<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="21" pc="268435521" symbol="onShow"/>
+<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="25" pc="268435526" symbol="onUpdate"/>
+<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="28" pc="268435530" symbol="onUpdate"/>
+<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="29" pc="268435547" symbol="onUpdate"/>
+<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="30" pc="268435621" symbol="onUpdate"/>
+<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="31" pc="268435645" symbol="onUpdate"/>
+<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="34" pc="268435659" symbol="onUpdate"/>
+<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="40" pc="268435676" symbol="onUpdate"/>
+<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="46" pc="268435697" symbol="onHide"/>
+<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="50" pc="268435702" symbol="onExitSleep"/>
+<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2View.mc" lineNum="54" pc="268435707" symbol="onEnterSleep"/>
+<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2App.mc" lineNum="5" pc="268435712" symbol="initialize"/>
+<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2App.mc" lineNum="6" pc="268435716" symbol="initialize"/>
+<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2App.mc" lineNum="10" pc="268435735" symbol="onStart"/>
+<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2App.mc" lineNum="14" pc="268435740" symbol="onStop"/>
+<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2App.mc" lineNum="18" pc="268435745" symbol="getInitialView"/>
+<entry filename="/Users/yitzchakschwartz/Documents/GitHub/ForeRunner235_Watch/source/Test2App.mc" lineNum="19" pc="268435749" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="18" pc="268435787" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="20" pc="268435791" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="21" pc="268435954" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="22" pc="268435979" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="23" pc="268436031" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="26" pc="268436077" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389124" method="true" symbol="onUpdate"/>
@@ -60,11 +61,12 @@
 <entry id="8388772" module="true" symbol="Fonts"/>
 </symbolTable>
 <localVars>
-<entry endPc="268435679" name="view" stackId="4" startPc="268435530"/>
-<entry endPc="268435679" name="timeString" stackId="3" startPc="268435530"/>
-<entry endPc="268435679" name="clockTime" stackId="2" startPc="268435530"/>
-<entry endPc="268436077" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268435774"/>
-<entry endPc="268436077" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268435774"/>
+<entry endPc="268435696" name="view" stackId="4" startPc="268435530"/>
+<entry endPc="268435696" name="timeString" stackId="3" startPc="268435530"/>
+<entry endPc="268435696" name="clockTime" stackId="2" startPc="268435530"/>
+<entry endPc="268435696" name="sysStat" stackId="5" startPc="268435530"/>
+<entry endPc="268436094" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268435791"/>
+<entry endPc="268436094" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268435791"/>
 </localVars>
 <annotations/>
 <functions>

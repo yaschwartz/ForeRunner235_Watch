@@ -2,6 +2,7 @@ using Toybox.WatchUi as Ui;
 using Toybox.Graphics as Gfx;
 using Toybox.System as Sys;
 using Toybox.Lang as Lang;
+using Toybox.ActivityMonitor as Act;
 
 class Test2View extends Ui.WatchFace {
 
@@ -22,11 +23,18 @@ class Test2View extends Ui.WatchFace {
 
     // Update the view
     function onUpdate(dc) {
+    
         // Get and show the current time
         var clockTime = Sys.getClockTime();
         var timeString = Lang.format("$1$:$2$", [clockTime.hour, clockTime.min.format("%02d")]);
         var view = View.findDrawableById("TimeLabel");
         view.setText(timeString);
+        
+        // Get system stats
+        var sysStat = Sys.getSystemStats();
+        
+
+        //view.setText(stepCount);
 
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
